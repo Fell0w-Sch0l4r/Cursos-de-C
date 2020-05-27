@@ -9,4 +9,5 @@ printf("\n\\\\\t=\tBarra");
 printf("\n%%%%\t=\tPorcentagem");
 printf("\n\\\?\t=\tInterrogação");
 printf("\n=-=-=-=-=-=-=-=-=-=-=-=-=-=-=\n");
+printf("Beep\a");
 }
