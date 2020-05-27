@@ -1,4 +1,8 @@
 #include <stdio.h>
+#include <locale.h>
 void main(){
-printf("Oi, tudo  \rbem?");
+setlocale(LC_ALL, "Portuguese");
+printf("C é");
+printf("\n\"SUPER\"");
+printf("\nFÁCIL!");
 }
