@@ -4,8 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/hp/Desktop/Cursos-de-C/main.c" "C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/CMakeFiles/Cursos_de_C.dir/main.c.obj"
-  "C:/Users/hp/Desktop/Cursos-de-C/teste.c" "C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/CMakeFiles/Cursos_de_C.dir/teste.c.obj"
+  "C:/Users/hp/Desktop/Cursos-de-C/novo.c" "C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/CMakeFiles/Cursos_de_C.dir/novo.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

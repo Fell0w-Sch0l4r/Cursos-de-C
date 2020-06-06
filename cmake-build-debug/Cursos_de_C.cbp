@@ -11,20 +11,20 @@
 				<Option working_dir="C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Users/hp/Downloads/m/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/Users/hp/Downloads/m/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/hp/Downloads/m/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/hp/Downloads/m/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Users/hp/Downloads/m/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/Users/hp/Downloads/m/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/hp/Downloads/m/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/hp/Downloads/m/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Cursos_de_C">
@@ -34,15 +34,15 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Users/hp/Downloads/m/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="C:/Users/hp/Downloads/m/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="C:/Users/hp/Downloads/m/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/Users/hp/Downloads/m/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cursos_de_C"/>
-					<CompileFile command="C:/Users/hp/Downloads/m/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/hp/Downloads/m/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/hp/Downloads/m/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cursos_de_C"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Cursos_de_C/fast">
@@ -52,32 +52,29 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Users/hp/Downloads/m/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="C:/Users/hp/Downloads/m/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="C:/Users/hp/Downloads/m/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/Users/hp/Downloads/m/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cursos_de_C/fast"/>
-					<CompileFile command="C:/Users/hp/Downloads/m/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/hp/Downloads/m/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/hp/Downloads/m/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cursos_de_C/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
 				<Option working_dir="C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Users/hp/Downloads/m/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/Users/hp/Downloads/m/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/hp/Downloads/m/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/hp/Downloads/m/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hp/Desktop/Cursos-de-C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/hp/Desktop/Cursos-de-C/main.c">
-			<Option target="Cursos_de_C"/>
-		</Unit>
-		<Unit filename="C:/Users/hp/Desktop/Cursos-de-C/teste.c">
+		<Unit filename="C:/Users/hp/Desktop/Cursos-de-C/novo.c">
 			<Option target="Cursos_de_C"/>
 		</Unit>
 		<Unit filename="C:/Users/hp/Desktop/Cursos-de-C/CMakeLists.txt">

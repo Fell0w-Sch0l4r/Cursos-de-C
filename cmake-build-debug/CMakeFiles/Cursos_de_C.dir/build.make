@@ -33,10 +33,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = C:\Users\hp\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.6668.126\bin\cmake\win\bin\cmake.exe
+CMAKE_COMMAND = C:\Users\hp\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.7846.88\bin\cmake\win\bin\cmake.exe
 
 # The command to remove a file.
-RM = C:\Users\hp\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.6668.126\bin\cmake\win\bin\cmake.exe -E remove -f
+RM = C:\Users\hp\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.7846.88\bin\cmake\win\bin\cmake.exe -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -56,47 +56,32 @@ include CMakeFiles/Cursos_de_C.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Cursos_de_C.dir/flags.make
 
-CMakeFiles/Cursos_de_C.dir/main.c.obj: CMakeFiles/Cursos_de_C.dir/flags.make
-CMakeFiles/Cursos_de_C.dir/main.c.obj: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\hp\Desktop\Cursos-de-C\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Cursos_de_C.dir/main.c.obj"
-	C:\Users\hp\Downloads\m\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Cursos_de_C.dir\main.c.obj   -c C:\Users\hp\Desktop\Cursos-de-C\main.c
+CMakeFiles/Cursos_de_C.dir/novo.c.obj: CMakeFiles/Cursos_de_C.dir/flags.make
+CMakeFiles/Cursos_de_C.dir/novo.c.obj: ../novo.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\hp\Desktop\Cursos-de-C\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Cursos_de_C.dir/novo.c.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Cursos_de_C.dir\novo.c.obj   -c C:\Users\hp\Desktop\Cursos-de-C\novo.c
 
-CMakeFiles/Cursos_de_C.dir/main.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Cursos_de_C.dir/main.c.i"
-	C:\Users\hp\Downloads\m\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\hp\Desktop\Cursos-de-C\main.c > CMakeFiles\Cursos_de_C.dir\main.c.i
+CMakeFiles/Cursos_de_C.dir/novo.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Cursos_de_C.dir/novo.c.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\hp\Desktop\Cursos-de-C\novo.c > CMakeFiles\Cursos_de_C.dir\novo.c.i
 
-CMakeFiles/Cursos_de_C.dir/main.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Cursos_de_C.dir/main.c.s"
-	C:\Users\hp\Downloads\m\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\hp\Desktop\Cursos-de-C\main.c -o CMakeFiles\Cursos_de_C.dir\main.c.s
-
-CMakeFiles/Cursos_de_C.dir/teste.c.obj: CMakeFiles/Cursos_de_C.dir/flags.make
-CMakeFiles/Cursos_de_C.dir/teste.c.obj: ../teste.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\hp\Desktop\Cursos-de-C\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Cursos_de_C.dir/teste.c.obj"
-	C:\Users\hp\Downloads\m\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Cursos_de_C.dir\teste.c.obj   -c C:\Users\hp\Desktop\Cursos-de-C\teste.c
-
-CMakeFiles/Cursos_de_C.dir/teste.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Cursos_de_C.dir/teste.c.i"
-	C:\Users\hp\Downloads\m\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\hp\Desktop\Cursos-de-C\teste.c > CMakeFiles\Cursos_de_C.dir\teste.c.i
-
-CMakeFiles/Cursos_de_C.dir/teste.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Cursos_de_C.dir/teste.c.s"
-	C:\Users\hp\Downloads\m\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\hp\Desktop\Cursos-de-C\teste.c -o CMakeFiles\Cursos_de_C.dir\teste.c.s
+CMakeFiles/Cursos_de_C.dir/novo.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Cursos_de_C.dir/novo.c.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\hp\Desktop\Cursos-de-C\novo.c -o CMakeFiles\Cursos_de_C.dir\novo.c.s
 
 # Object files for target Cursos_de_C
 Cursos_de_C_OBJECTS = \
-"CMakeFiles/Cursos_de_C.dir/main.c.obj" \
-"CMakeFiles/Cursos_de_C.dir/teste.c.obj"
+"CMakeFiles/Cursos_de_C.dir/novo.c.obj"
 
 # External object files for target Cursos_de_C
 Cursos_de_C_EXTERNAL_OBJECTS =
 
-Cursos_de_C.exe: CMakeFiles/Cursos_de_C.dir/main.c.obj
-Cursos_de_C.exe: CMakeFiles/Cursos_de_C.dir/teste.c.obj
+Cursos_de_C.exe: CMakeFiles/Cursos_de_C.dir/novo.c.obj
 Cursos_de_C.exe: CMakeFiles/Cursos_de_C.dir/build.make
 Cursos_de_C.exe: CMakeFiles/Cursos_de_C.dir/linklibs.rsp
 Cursos_de_C.exe: CMakeFiles/Cursos_de_C.dir/objects1.rsp
 Cursos_de_C.exe: CMakeFiles/Cursos_de_C.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\hp\Desktop\Cursos-de-C\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable Cursos_de_C.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\hp\Desktop\Cursos-de-C\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable Cursos_de_C.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Cursos_de_C.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

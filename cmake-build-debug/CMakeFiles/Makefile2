@@ -34,10 +34,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = C:\Users\hp\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.6668.126\bin\cmake\win\bin\cmake.exe
+CMAKE_COMMAND = C:\Users\hp\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.7846.88\bin\cmake\win\bin\cmake.exe
 
 # The command to remove a file.
-RM = C:\Users\hp\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.6668.126\bin\cmake\win\bin\cmake.exe -E remove -f
+RM = C:\Users\hp\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.7846.88\bin\cmake\win\bin\cmake.exe -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -73,12 +73,12 @@ clean: CMakeFiles/Cursos_de_C.dir/clean
 CMakeFiles/Cursos_de_C.dir/all:
 	$(MAKE) -f CMakeFiles\Cursos_de_C.dir\build.make CMakeFiles/Cursos_de_C.dir/depend
 	$(MAKE) -f CMakeFiles\Cursos_de_C.dir\build.make CMakeFiles/Cursos_de_C.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\hp\Desktop\Cursos-de-C\cmake-build-debug\CMakeFiles --progress-num=1,2,3 "Built target Cursos_de_C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\hp\Desktop\Cursos-de-C\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target Cursos_de_C"
 .PHONY : CMakeFiles/Cursos_de_C.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Cursos_de_C.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\hp\Desktop\Cursos-de-C\cmake-build-debug\CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\hp\Desktop\Cursos-de-C\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/Cursos_de_C.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\hp\Desktop\Cursos-de-C\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/Cursos_de_C.dir/rule

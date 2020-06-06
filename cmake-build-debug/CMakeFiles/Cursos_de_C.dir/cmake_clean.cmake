@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Cursos_de_C.dir/main.c.obj"
-  "CMakeFiles/Cursos_de_C.dir/teste.c.obj"
+  "CMakeFiles/Cursos_de_C.dir/novo.c.obj"
   "Cursos_de_C.exe"
   "Cursos_de_C.exe.manifest"
   "Cursos_de_C.pdb"
