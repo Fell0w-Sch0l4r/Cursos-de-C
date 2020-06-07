@@ -1,5 +1,5 @@
 #import <stdio.h>
-#import <locale.h>
-void main(){
 
+void main(){
+    printf("Olá mundo.");
 }
